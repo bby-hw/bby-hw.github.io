@@ -20,7 +20,7 @@ title                    : "Bob's first blog" # blog left-up side title
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Bobby" # blog left-down side title
-description              : "I'm going to live every minute of it - Joe Gardner"
+description              : "live every minute of it"
 url                      : "https://bby-hw.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "bby-hw/bby-hw.github.io"
@@ -109,7 +109,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "rotto95@snu.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
