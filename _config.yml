@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "ko" # language "en-US"
-title                    : "Bob's first blog" # blog leftside title
+title                    : "Bob's first blog" # blog left-up side title
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Bobby"
-description              : "Learning the world"
+name                     : "Bobby" # blog left-down side title
+description              : "I'm going to live every minute of it - Joe Gardner"
 url                      : "https://bby-hw.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "bby-hw/bby-hw.github.io"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Song HyungWoo"
   avatar           : "/assets/images/bbyunderthestars.jpg"
-  bio              : "I am an **learning** things."
+  bio              : "I am **learning** things."
   location         : "Seoul, Korea"
   email            : "rotto95@snu.ac.kr"
   links:
@@ -121,10 +121,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/bby-hw"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/bob_ography"
 
 # Site Footer
 footer:
