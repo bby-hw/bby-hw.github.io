@@ -20,7 +20,7 @@ title                    : "Bob's first blog" # blog left-up side title
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Bobby" # blog left-down side title
-description              : "live every minute of it"
+description              : "developer, student, living-person"
 url                      : "https://bby-hw.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "bby-hw/bby-hw.github.io"
@@ -103,13 +103,13 @@ analytics:
 author:
   name             : "Song HyungWoo"
   avatar           : "/assets/images/bbyunderthestars.jpg"
-  bio              : "I am **learning** things."
+  bio              : "I'm going to live every minute of it - Joe Gardner"
   location         : "Seoul, Korea"
   email            : "rotto95@snu.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "rotto95@snu.ac.kr"
+      # url: "rotto95@snu.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
